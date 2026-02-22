@@ -1,5 +1,0 @@
-[build]
-target-dir = "target"
-
-[tool]
-cargo-audit.version = "0.22"
